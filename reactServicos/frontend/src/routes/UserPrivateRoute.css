@@ -1,0 +1,77 @@
+.div-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 1rem;
+    
+}
+.div-container h2{
+    font-size: 30px;
+    font-weight: 800;
+    margin: 0.5rem;
+    
+}
+.div-container p{
+    font-size: 18px;
+    font-weight: 700;
+    margin: 0.5rem;
+    background-color: #E8E5DA;
+}
+.div-container img{
+    margin: 1rem;
+    border-radius: 10px;
+}
+.user-image{
+    width: 400px;
+}
+.service-image{
+    width: 400px;
+}
+.service-div{
+    margin: 30px;
+}
+.service-div div{
+    margin-left: 10px;
+}
+.user-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.btn-div{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+.btn-delete{
+    padding: 0.5rem;
+    width: 230px;
+    border: none;
+    background-color: #386fa4;
+    color: #fff;
+    border-radius: 5px;
+    opacity: 1;
+    cursor: pointer;
+}
+.btn-delete:hover{
+    opacity: 0.9;
+}
+.adminPanel-btn{
+    display: flex;
+    flex-direction: row-reverse;
+    margin: 1rem;
+    padding: 0.5rem;
+    opacity: 1;
+}
+.adminPanel-btn:hover{
+    opacity: 0.9;
+}
+.admin-link{
+    background-color: #28478a;
+    color: #fff;
+    padding: 0.5rem;
+    text-decoration: none;
+    border-radius: 5px;
+}
