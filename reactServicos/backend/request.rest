@@ -22,7 +22,7 @@ Content-Type: application/json
 }
 ###
 
-GET  http://localhost:3000/api/user/$2b$12$zfGZ4VhiPk8k5aRACYh2G.XQh.qgesXEjmRhDrfDEYAWsxyeRzgo.
+GET  http://localhost:3000/api/user/68839c7f6c586bbc21280f9f
 Content-Type: application/json
 
 

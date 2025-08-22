@@ -33,7 +33,7 @@ const router = createBrowserRouter([
         element: <UserPrivateRoute/>
       },
       {
-        path: "/administration",
+        path: "/administration/:id",
         element: <AdminPanel/>
       },
       {
