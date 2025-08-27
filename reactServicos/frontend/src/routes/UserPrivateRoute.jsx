@@ -7,7 +7,7 @@ import programFetch from "../axios/config"
 import useToast from "../hooks/useToast"
 
 import "./UserPrivateRoute.css"
-import AddServices from "./AddServices"
+import AddServices from "../components/AddServices"
 
 
 
